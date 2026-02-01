@@ -9,6 +9,7 @@ real-world AWS architectures, security best practices, and troubleshooting.
 - Route 53
 - ACM (TLS/HTTPS)
 - Git & GitHub
+- AWS Connect
 
 ## Featured Projects
 - Secure static website hosting using S3 + CloudFront + Route 53
